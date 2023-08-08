@@ -88,7 +88,7 @@ header.shadow {
     color: crimson;
 }
 .poster1{
-width: 150px;
+width: 300px;
 cursor: pointer;
 margin-left: 40px;
 }
@@ -402,6 +402,11 @@ form textarea {
     header {
         padding: 11px 4%;
     }
+	.coll{
+width: 300px;
+cursor: pointer;
+margin-left: 40px;
+}
     #menu-icon {
         display: initial;
         color: var(–text-color);
